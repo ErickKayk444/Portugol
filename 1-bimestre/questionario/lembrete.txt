@@ -4,3 +4,5 @@ git clone http.........
 cd nome do repositorio 
 git status
 git add .
+git commit -m "atualizaçao"
+git push origin main 
