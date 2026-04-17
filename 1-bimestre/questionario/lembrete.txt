@@ -1,0 +1,6 @@
+Pesquisar>cmd
+cd downloads
+git clone http.........
+cd nome do repositorio 
+git status
+git add .
