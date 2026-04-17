@@ -6,3 +6,6 @@ git status
 git add .
 git commit -m "atualizaçao"
 git push origin main 
+
+sincronizar remoto com local
+git pull origin main
