@@ -19,7 +19,7 @@ Ler três números, comparar eles e mostrar qual é o maior.
 
 **Em Portugol:**
 
-"
+
 programa
 {
     funcao inicio()
@@ -47,14 +47,14 @@ programa
     }
 }
 
-"
+
 
 **Exercício 3**
 
 O Portugol Studio é um programa usado para aprender programação. Ele usa uma linguagem parecida com português, então fica mais fácil de entender.
 
 **Código:**
-"
+
 programa
 {
     funcao inicio()
@@ -67,7 +67,7 @@ programa
     }
 }
 
-"
+
 **Experiência:**
 
 Foi fácil de usar. A linguagem é simples e ajuda bastante quem está começando a entender programação.
