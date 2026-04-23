@@ -2,7 +2,9 @@
 
 Beleza, vou deixar mais **simples e natural**, do jeito que professor costuma aceitar tranquilo:
 
- **Exercício 1**
+---
+
+### **Exercício 1**
 
 Algoritmo é um conjunto de passos organizados para resolver um problema.
 
@@ -11,7 +13,9 @@ A lógica de programação é o jeito de pensar na solução, e o algoritmo é e
 Exemplo do dia a dia: fazer café
 Primeiro coloca água, depois o pó no filtro, esquenta a água, passa no filtro e depois serve.
 
- **Exercício 2**
+---
+
+### **Exercício 2**
 
 **Algoritmo em linguagem natural:**
 
@@ -19,7 +23,7 @@ Ler três números, comparar eles e mostrar qual é o maior.
 
 **Em Portugol:**
 
-
+```
 programa
 {
     funcao inicio()
@@ -46,15 +50,17 @@ programa
         escreva("O maior numero é: ", maior)
     }
 }
+```
 
+---
 
-
-**Exercício 3**
+### **Exercício 3**
 
 O Portugol Studio é um programa usado para aprender programação. Ele usa uma linguagem parecida com português, então fica mais fácil de entender.
 
 **Código:**
 
+```
 programa
 {
     funcao inicio()
@@ -66,14 +72,21 @@ programa
         escreva("O dobro é: ", numero * 2)
     }
 }
-
+```
 
 **Experiência:**
 
 Foi fácil de usar. A linguagem é simples e ajuda bastante quem está começando a entender programação.
+
+---
 
 ### **Exercício 4**
 
 Essas ferramentas ajudam muito porque deixam o trabalho mais rápido e organizado, além de evitar erros.
 
 Se tivesse que fazer tudo do zero, seria bem mais difícil e demorado, além de ter mais chance de dar erro. Por exemplo, teria que criar tudo sozinho: interface, cálculos, banco de dados, etc.
+
+---
+
+Se quiser, posso deixar **ainda mais simples (nível bem básico)** ou **do jeitinho que seu professor costuma pedir** 👍
+udo do zero, seria bem mais difícil e demorado, além de ter mais chance de dar erro. Por exemplo, teria que criar tudo sozinho: interface, cálculos, banco de dados, etc.
