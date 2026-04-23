@@ -1,7 +1,5 @@
 # Questionário
 
-Beleza, vou deixar mais **simples e natural**, do jeito que professor costuma aceitar tranquilo:
-
 ---
 
 ### **Exercício 1**
@@ -88,5 +86,4 @@ Se tivesse que fazer tudo do zero, seria bem mais difícil e demorado, além de 
 
 ---
 
-Se quiser, posso deixar **ainda mais simples (nível bem básico)** ou **do jeitinho que seu professor costuma pedir** 👍
-udo do zero, seria bem mais difícil e demorado, além de ter mais chance de dar erro. Por exemplo, teria que criar tudo sozinho: interface, cálculos, banco de dados, etc.
+
